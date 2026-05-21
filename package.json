@@ -1,0 +1,27 @@
+{
+  "name": "deezybarber",
+  "version": "1.0.0",
+  "description": "Deezy Barber - Professional barber website",
+  "main": "script.js",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanPlayzVid/deezybarber.git"
+  },
+  "keywords": [
+    "barber",
+    "website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanPlayzVid/deezybarber/issues"
+  },
+  "homepage": "https://github.com/RyanPlayzVid/deezybarber#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
